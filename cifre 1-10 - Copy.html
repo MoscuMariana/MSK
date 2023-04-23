@@ -75,7 +75,11 @@
       </div>
     </header>
     <!-- End Header -->
-    <?php include("nav.php"); ?>
+    <?php 
+    $path = $_SERVER['DOCUMENT_ROOT'];
+    $path .= "/assets/php/nav.php";
+    include_once($path);
+ ?>
 
    
 
