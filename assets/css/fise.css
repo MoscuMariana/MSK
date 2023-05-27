@@ -400,10 +400,10 @@ a {
   box-shadow: none;
 }
 .name {
-  color: #007bff;
+  color: #04d304;
 }
 .cursor:hover {
-  color: blue;
+  color: rgb(129, 255, 117);
 }
 .cursor {
   cursor: pointer;

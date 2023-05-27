@@ -49,7 +49,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 998;
-  background: #67b0d1;
+  background: rgba(217, 255, 2, 0.8);
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -63,7 +63,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #86c0da;
+  background: #9dfa8a;
   color: #fff;
 }
 
@@ -89,7 +89,7 @@ h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 24px 0;
-  background: rgba(103, 176, 209, 0.8);
+  background: rgba(217, 255, 2, 0.8);
 }
 
 #header.header-transparent {
@@ -97,7 +97,7 @@ h6 {
 }
 
 #header.header-scrolled {
-  background: rgba(55, 142, 181, 0.9);
+  background: rgba(230, 255, 2, 0.9);
   padding: 12px;
 }
 
